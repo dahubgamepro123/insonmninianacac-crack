@@ -262,7 +262,7 @@ L_6_:NewDropdown(
 end
 )
 local L_7_ = L_4_:NewTab("Silent aim")
-local L_8_ = L_7_:NewSection("15X")
+local L_8_ = L_7_:NewSection("Insonmniac")
 L_8_:NewButton(
     "Silent aim",
     "Silent Aim Toggle Key is T.",
@@ -305,7 +305,7 @@ L_8_:NewToggle(
 end
 )
 local L_9_ = L_4_:NewTab("Silent Aimlock")
-local L_10_ = L_9_:NewSection("15X")
+local L_10_ = L_9_:NewSection("Insonmniac")
 L_10_:NewButton(
     "Silent Aimlock",
     "Key is Q.",
@@ -539,7 +539,7 @@ L_10_:NewButton(
 end
 )
 local L_11_ = L_4_:NewTab("Antilock")
-local L_12_ = L_11_:NewSection("15X")
+local L_12_ = L_11_:NewSection("Insonmniac")
 L_12_:NewButton(
     "Antilock",
     "Key is Z.",
@@ -666,7 +666,7 @@ L_12_:NewButton(
 end
 )
 local L_13_ = L_4_:NewTab("Settings")
-local L_14_ = L_13_:NewSection("15X")
+local L_14_ = L_13_:NewSection("Insonmniac")
 L_14_:NewKeybind(
     "Keybind Gui Toggle",
     "h",
@@ -677,7 +677,7 @@ end
 )
 local L_17_ = L_4_:NewTab("ESP")
 local L_18_ = loadstring(game:HttpGet("https://kiriot22.com/releases/ESP.lua"))()
-local L_19_ = L_17_:NewSection("15X")
+local L_19_ = L_17_:NewSection("Insonmniac")
 L_19_:NewToggle(
     "ESP",
     "ESP",
