@@ -7,8 +7,15 @@
    \ \_______\/  /\   \    \ \__\ \__\ \_______\ \_______\ \__\\ \__\
     \|_______/__/ /\ __\    \|__|\|__|\|_______|\|_______|\|__| \|__|
              |__|/ \|__|       
-15X Revamp - LXYO WAS HERE DISCORD : lxyodev#1111                                                                                                                                                                         
+LXYO WAS HERE DISCORD : lxyodev#1111  (discord.gg/hacked) 
+
+
+
+VM Dumper was made by: Loni#0002    
+
 --]]
+
+getgenv().LXHOOK6 = true; -- NEVER CHANGE IT
 
 
 local L_1_ = "t"
@@ -699,3 +706,5 @@ L_19_:NewToggle(
 	L_18_.Boxes = L_204_arg0
 end
 )
+
+getgenv().Important = {Warning = "I do not recommend changing anything in crack, WM", "If you change it script will crash and crash you thank you so much (lxhook)", lxhook = true}; getgenv().Memes = {"Omg vault got caught converting skeet.cc into lua", "gamesense.is? omg fbi don't cum inside me daddy","otc v math.huge enjoyers be like","lxhook fucked you up babe", "i'm so cool and these meme strings won't get updated", "if (dx15.alive == true){dx15.kill()} /* srry dx */", "we look hot babe"}; getgenv().LXHOOK1 = true; getgenv().LXHOOK2 = true; getgenv().LXHOOK3 = true; getgenv().LXHOOK4 = true; getgenv().LXHOOK5 = true; getgenv().LXHOOK6 = true; local complicated_things = {too_complicated_things = {more_complicated_things = {more_and_more_complicated_things = {W_M = {"l","x","h","o","o","k"},haha = {yes = function() if getgenv().LXHOOK == false then getgenv().LXHOOK = true end end}} } } }; table.foreach(complicated_things.too_complicated_things.more_complicated_things.more_and_more_complicated_things.W_M,function(a,b) print(b) complicated_things.too_complicated_things.more_complicated_things.more_and_more_complicated_things.haha.yes() if getgenv().Important.lxhook ~= true then while true do end end end)
